@@ -1,0 +1,278 @@
+[
+    {
+        "domain": "analytics-agile.tech",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "systems-smart.app",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "blue-tech.io",
+        "status": "Up",
+        "ssl_expiration": "2025-04-07",
+        "ssl_issuer": "Let's Encrypt"
+    },
+    {
+        "domain": "modern-digital.cloud",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "easy-digital.tech",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "swift-dev.dev",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "dynamic-consulting.net",
+        "status": "Up",
+        "ssl_expiration": "2025-10-27",
+        "ssl_issuer": "GoDaddy.com, Inc."
+    },
+    {
+        "domain": "brightdigital.io",
+        "status": "Up",
+        "ssl_expiration": "2025-05-07",
+        "ssl_issuer": "Google Trust Services"
+    },
+    {
+        "domain": "consulting-pro.net",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "bright-group.org",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "red-systems.co",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "cybermedia.cloud",
+        "status": "Up",
+        "ssl_expiration": "2025-03-15",
+        "ssl_issuer": "Let's Encrypt"
+    },
+    {
+        "domain": "platformsmart.com",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "dynamic-net.app",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "smart-platform.app",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "firstweb.io",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "hubeasy.app",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "systems-blue.co",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "bright-labs.co",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "cloud-active.net",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "prime-group.tech",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "cloudfirst.io",
+        "status": "Up",
+        "ssl_expiration": "2025-07-09",
+        "ssl_issuer": "Sectigo Limited"
+    },
+    {
+        "domain": "hubbest.org",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "consulting-peak.app",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "cloud-first.cloud",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "globalmeta.org",
+        "status": "Up",
+        "ssl_expiration": "2025-03-26",
+        "ssl_issuer": "Let's Encrypt"
+    },
+    {
+        "domain": "media-rapid.dev",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "group-bright.cloud",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "systemsmeta.com",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "data-first.dev",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "dynamicsolutions.net",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "softwarepeak.co",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "bluesoftware.co",
+        "status": "Up",
+        "ssl_expiration": "2025-11-18",
+        "ssl_issuer": "GoDaddy.com, Inc."
+    },
+    {
+        "domain": "appeasy.tech",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "bestsoftware.dev",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "systems-best.ai",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "activelabs.org",
+        "status": "Up",
+        "ssl_expiration": "2025-11-16",
+        "ssl_issuer": "GoDaddy.com, Inc."
+    },
+    {
+        "domain": "netmeta.io",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "prime-global.io",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "prime-digital.ai",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "active-platform.dev",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "smartplatform.org",
+        "status": "Up",
+        "ssl_expiration": "2025-10-03",
+        "ssl_issuer": "GoDaddy.com, Inc."
+    },
+    {
+        "domain": "platformprime.co",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "techprime.ai",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "app-rapid.ai",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "globalnext.dev",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    }
+]

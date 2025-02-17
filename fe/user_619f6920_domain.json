@@ -1,0 +1,74 @@
+[
+    {
+        "domain": "analytics-agile.tech",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "systems-smart.app",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "blue-tech.io",
+        "status": "Up",
+        "ssl_expiration": "2025-04-07",
+        "ssl_issuer": "Let's Encrypt"
+    },
+    {
+        "domain": "modern-digital.cloud",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "easy-digital.tech",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "swift-dev.dev",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "dynamic-consulting.net",
+        "status": "Up",
+        "ssl_expiration": "2025-10-27",
+        "ssl_issuer": "GoDaddy.com, Inc."
+    },
+    {
+        "domain": "brightdigital.io",
+        "status": "Up",
+        "ssl_expiration": "2025-05-07",
+        "ssl_issuer": "Google Trust Services"
+    },
+    {
+        "domain": "consulting-pro.net",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "bright-group.org",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "red-systems.co",
+        "status": "Down",
+        "ssl_expiration": "N/A",
+        "ssl_issuer": "Unknown"
+    },
+    {
+        "domain": "cybermedia.cloud",
+        "status": "Up",
+        "ssl_expiration": "2025-03-15",
+        "ssl_issuer": "Let's Encrypt"
+    }
+]

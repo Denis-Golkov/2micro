@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "google.com",
+        "status": "Up",
+        "ssl_expiration": "2025-04-21",
+        "ssl_issuer": "Google Trust Services"
+    },
+    {
+        "domain": "ynet.co.il",
+        "status": "Up",
+        "ssl_expiration": "2025-10-31",
+        "ssl_issuer": "DigiCert Inc"
+    },
+    {
+        "domain": "godady.com",
+        "status": "Down (403)",
+        "ssl_expiration": "2025-05-18",
+        "ssl_issuer": "GoDaddy.com, Inc."
+    },
+    {
+        "domain": "gmail.com",
+        "status": "Up",
+        "ssl_expiration": "2025-04-21",
+        "ssl_issuer": "Google Trust Services"
+    }
+]
